@@ -38,7 +38,7 @@ EXEMPLO: pode-se executar o código com o seguinte comando:
  
         " run LoRaWAN_v3.py 100 300 200 2 10 "  
  
-  Para rodar a simulação com 100 nós, 300 segundos de intervalo de envio, 200 bytes de dados, colisão considerando não-ortogonalidade dos SFs
+  Para rodar a versão 3 da simulação com 100 nós, 300 segundos de intervalo de envio, 200 bytes de dados, colisão considerando não-ortogonalidade dos SFs
  e o efeito de captura, e com uma semente aleatória igual a 10.  
 
 [1] ABDELFADEEL, K. Q. et al. FREE - Fine-Grained Scheduling for Reliable and Energy-Efficient Data Collection in LoRaWAN.IEEE Internet of Things Journal, IEEE, v. 7, n. 1, p. 669–683,2020.
